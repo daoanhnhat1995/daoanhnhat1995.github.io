@@ -8,5 +8,19 @@
     <language>en-us</language>
     <atom:link href="https://daoanhnhat1995.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>About</title>
+      <link>https://daoanhnhat1995.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daoanhnhat1995.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+My name is Nhat Dao and I love Computer Science and Mathematics. In my freetime,
+I am generally found trying out new &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995?tab=repositories&#34;&gt; programming languages &lt;/a&gt; or jamming with my guitar and my keyboard.&lt;/p&gt;
+
+&lt;p&gt;I am currently in my senior year at UT Arlington. Beside school, I&amp;rsquo;m also an officer and mentor at &lt;a target=&#34;_blank&#34; href=&#34;http://idappthat.mobi/&#34;&gt; Mobi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
