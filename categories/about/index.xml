@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nhat Dao&#39;s blog</title>
-    <link>https://daoanhnhat1995.github.io/</link>
-    <description>Recent content on Nhat Dao&#39;s blog</description>
+    <title>About on Nhat Dao&#39;s blog</title>
+    <link>https://daoanhnhat1995.github.io/categories/about/</link>
+    <description>Recent content in About on Nhat Dao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="https://daoanhnhat1995.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daoanhnhat1995.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
@@ -19,16 +19,6 @@
 I am generally found trying out new &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995?tab=repositories&#34;&gt; &lt;strong&gt;programming languages &lt;/strong&gt; &lt;/a&gt; or jamming with my guitar and my keyboard.&lt;/p&gt;
 
 &lt;p&gt;I am currently in my senior year at UT Arlington. Beside school, I&amp;rsquo;m also an officer and mentor at &lt;a target=&#34;_blank&#34; href=&#34;http://idappthat.mobi/&#34;&gt; Mobi&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://daoanhnhat1995.github.io/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://daoanhnhat1995.github.io/projects/</guid>
-      <description>&lt;p&gt;Update coming soon &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
