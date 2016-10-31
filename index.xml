@@ -28,7 +28,73 @@ I am generally found trying out new &lt;a target=&#34;_blank&#34; href=&#34;http
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>https://daoanhnhat1995.github.io/projects/</guid>
-      <description>&lt;p&gt;Update coming soon &amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;h4&gt; Apps in production &lt;/h4&gt;
+&lt;ul class=&#34;project-list-container&#34;&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://shippy.vn&#34;&gt; shippy.vn&lt;/a&gt; &lt;/h4&gt;
+        Built with Ruby on rails, React/Redux, Redis.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://organicrein.com&#34;&gt; organicrein.com&lt;/a&gt; &lt;/h4&gt;
+        Built with Ruby on rails.
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995?tab=repositories&#34;&gt; Side projects&lt;/a&gt; &lt;/h4&gt;
+&lt;ul class=&#34;project-list-container&#34;&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/schedule-app-crawler&#34;&gt; XML Web Crawler&lt;/a&gt; &lt;/h4&gt;
+        A web crawler written in Ruby to scrape XML web pages.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/schedule-app-client&#34;&gt; UTA Scheduler&lt;/a&gt; &lt;/h4&gt;
+        A hybrid mobile application written in Ionic and Angular.js that lets students generate class schedules automatically, eliminating manual permutations of classes and daily activities and suggest changes if there is a conflict.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/hadoop/tree/master/MapReduce&#34;&gt; Weight Trend&lt;/a&gt; &lt;/h4&gt;
+        A MapReduce program in Java to calculate weight trend.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/programming-practices&#34;&gt; Programming Challenges&lt;/a&gt; &lt;/h4&gt;
+        My solutions to multiple coding challenge platforms in C++, Java, Python and Go.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/CS-4392-Keep-It-Fresh&#34;&gt; Keep It Fresh &lt;/a&gt; &lt;/h4&gt;
+        A data mining project that predict restaurant&amp;rsquo;s health inspection scores based on Yelp&amp;rsquo;s academic datasets in Boston using topic modeling and feature engineer.
+        A visualizer written in Ember.js is provided to show the results.`
+    &lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt; Hackathons via my &lt;a target=&#34;_blank&#34; href=&#34;https://devpost.com/nad0170&#34;&gt; devpost profile&lt;/a&gt; &lt;/h4&gt;
+&lt;ul class=&#34;project-list-container&#34;&gt;
+    &lt;li&gt; &lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://devpost.com/software/healthyhacker-4u6vp2&#34;&gt; Healthy Hacker (TAMUHack 2015 top 4) &lt;/a&gt; &lt;/h4&gt;
+        Healthy hacker monitors your productivity at a hackathon by analyzing your keystrokes and mouse movements with K-mean clustering method.
+        A &lt;a target=&#34;_blank&#34; href=&#34; https://github.com/cameronmoreau/HealthyHacker&#34;&gt; dashboard &lt;/a&gt;, written in Electron and Angular.js, visualize your activities, send you a warning to take a break, suggest other activities to do in the hackathon.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://devpost.com/software/dispatch-no5b4z&#34;&gt; Dispatch (HackDFW top 10) &lt;/a&gt; &lt;/h4&gt;
+        An automated emergency vehicle dispatching service includes a &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/Dispatch-React&#34;&gt; dashboard client &lt;/a&gt; written in React,
+        an &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/Dispatch-Backend&#34;&gt; API &lt;/a&gt; written in Node.js with &lt;a target=&#34;_blank&#34; href=&#34;wit.ai&#34;&gt; wit.ai &lt;/a&gt; &amp;rsquo;s natural language processing API and
+        an &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/Dispatch-ios&#34;&gt; IOS client &lt;/a&gt; written in Swift.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://devpost.com/software/shouldai&#34;&gt; ShouldAI (TAMUHack 2016) &lt;/a&gt; &lt;/h4&gt;
+    A &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/tamu-hack-should-i&#34;&gt; random forest classifier &lt;/a&gt; helps you decide a better better investment between two transactions using your data from CapitalOne&amp;rsquo;s API.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;
+    &lt;a target=&#34;_blank&#34; href=&#34;https://devpost.com/software/something-good-7vfh6z&#34;&gt; Something Good (HackTX 2016) &lt;/a&gt; &lt;/h4&gt;
+    &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/Mobi-Hackathons/HackTX-2016-backend&#34;&gt; Scrape trending posts &lt;/a&gt; from similar news agencies in TX through Facebook API using Python, provides a
+    &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/Mobi-Hackathons/HackTX-2016-Frontend&#34;&gt; visualizer written in Vue.js with Mapbox &lt;/a&gt;.
+    &lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt; Projects at &lt;a target=&#34;_blank&#34; href=&#34;http://idappthat.mobi&#34;&gt; Mobi &lt;/a&gt; &lt;/h4&gt;
+&lt;ul class=&#34;project-list-container&#34;&gt;
+    &lt;li&gt; &lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/UTA-Now&#34;&gt; UTA Now &lt;/a&gt; &lt;/h4&gt;
+        A hybrid mobile app using Ionic, Angular.js that connects students with events on campus.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/UTA-Parking&#34;&gt; UTA Parking &lt;/a&gt; &lt;/h4&gt;
+        An hybrid mobile app using Ionic, Angular.js that helps students find parking spots.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/Roomies-iOS&#34;&gt; Roomies &lt;/a&gt; &lt;/h4&gt;
+        An IOS app written in Swift that help people find roommates.
+    &lt;/li&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/idappthat/mobi-member-react&#34;&gt; Mobi&amp;rsquo;s member portal&lt;/a&gt; &lt;/h4&gt;
+        A portal written in React that contains materials for workshops done by Mobi.
+    &lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
 </description>
     </item>
     
