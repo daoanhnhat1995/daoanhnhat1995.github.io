@@ -40,7 +40,7 @@
     &lt;/li&gt;
     &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/CS-4392-Keep-It-Fresh&#34;&gt; Keep It Fresh &lt;/a&gt; &lt;/h4&gt;
         A data mining project that predict restaurant&amp;rsquo;s health inspection scores based on Yelp&amp;rsquo;s academic datasets in Boston using topic modeling and feature engineer.
-        A visualizer written in Ember.js is provided to show the results.`
+        A visualizer written in Ember.js is provided to show the results.
     &lt;/li&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
