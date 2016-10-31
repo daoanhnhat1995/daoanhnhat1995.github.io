@@ -26,6 +26,9 @@
     &lt;/ul&gt;
 &lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995?tab=repositories&#34;&gt; Side projects&lt;/a&gt; &lt;/h4&gt;
 &lt;ul class=&#34;project-list-container&#34;&gt;
+    &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://nadao.me/2048-angular-2/&#34;&gt; 2048&lt;/a&gt; &lt;/h4&gt;
+        Popular game 2048 written in Angular2 and Typescript.
+    &lt;/li&gt;
     &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995/schedule-app-crawler&#34;&gt; XML Web Crawler&lt;/a&gt; &lt;/h4&gt;
         A web crawler written in Ruby to scrape XML web pages.
     &lt;/li&gt;
