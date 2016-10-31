@@ -18,10 +18,10 @@
       <description>&lt;p&gt;&lt;h4&gt; Apps in production &lt;/h4&gt;
 &lt;ul class=&#34;project-list-container&#34;&gt;
     &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://shippy.vn&#34;&gt; shippy.vn&lt;/a&gt; &lt;/h4&gt;
-        Built with Ruby on rails, React/Redux, Redis.
+        Built with Ruby on rails, React/Redux, PostgreSQL, Redis.
     &lt;/li&gt;
     &lt;li&gt; &lt;h4&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://organicrein.com&#34;&gt; organicrein.com&lt;/a&gt; &lt;/h4&gt;
-        Built with Ruby on rails.
+        Built with Ruby on rails, PostgreSQL.
     &lt;/li&gt;
     &lt;/ul&gt;
 &lt;h4&gt; &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/daoanhnhat1995?tab=repositories&#34;&gt; Side projects&lt;/a&gt; &lt;/h4&gt;
