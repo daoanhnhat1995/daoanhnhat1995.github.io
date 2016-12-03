@@ -17,20 +17,22 @@ a:link
 {
     text-decoration: none;
 
-    color: #526d7a;
+    /* color: #526d7a; */
 }
 body
 {
     font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
 
     width: auto;
     height: 100%;
     min-height: 100%;
     margin: 0;
+	color: #1c2334;
 
-    background-color: #fcfcfc;
+    /* background-color: #fcfcfc; */
+	/* background-color: #6772e5; */
 }
 html
 {
@@ -42,7 +44,7 @@ html
 }
 .author
 {
-    color: #444;
+    color: #ee5f64;
 }
 .author h1,
 .author h2,
@@ -76,7 +78,8 @@ div.content
     font-size: 18px;
     font-weight: 300;
 
-    color: #777;
+    /* color: #000; */
+	color: #000;
 }
 .copyright
 {
@@ -88,7 +91,8 @@ div.content
 {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
-    color: #bbb;
+    /* color: #000; */
+	color: #000;
 }
 .error
 {
@@ -100,13 +104,13 @@ div.content
 {
     font-size: 80px;
 
-    color: #bbb;
+    color: #000;
 }
 .error p
 {
     margin-top: 150px;
 
-    color: #777;
+    color: #000;
 }
 .excerpt
 {
@@ -121,7 +125,7 @@ div.content
 {
     margin-top: 10px;
 
-    color: #bbb;
+    color: #000;
 }
 .header
 {
@@ -141,8 +145,13 @@ div.content
 .intro
 {
     font-family: 'Roboto Slab', serif;
-    font-weight: 200;
-    color: #777;
+    font-weight: 500;
+}
+
+.fa {
+	/* color: white !important; */
+	font-size: 30px;
+	margin: 0px 2px;
 }
 h3.intro
 {
@@ -189,7 +198,7 @@ h3.intro
 
     text-decoration: none;
 
-    color: #966 !important;
+    color: #000 !important;
 }
 .meta
 {
@@ -197,7 +206,7 @@ h3.intro
     font-size: 12px;
     font-weight: 200;
 
-    color: #bbb;
+    color: #000;
 }
 a.meta
 {
@@ -209,7 +218,7 @@ h6.meta
     font-size: 12px;
     font-weight: 200;
 
-    color: #bbb;
+    color: #000;
 }
 section.meta {
     margin-top: 
@@ -227,19 +236,21 @@ section.meta {
 .social,
 .social a
 {
-    color: #526d7a;
+    /* color: #526d7a; */
+	color: #337ab7;
 }
 .title
 {
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
 
-    color: #555;
+    color: #ee5f64;
 }
 header.title
 {
     margin-top: 50px;
     padding: 0 15px;
+    color: #ee5f64;
 }
 @media (max-width: 991px)
 {
